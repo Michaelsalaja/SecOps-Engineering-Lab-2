@@ -55,7 +55,7 @@ Figure 5: Screenshot of Microsoft Azure portal showing Windows 11 virtual machin
 
 Figure 6: Screenshot of Microsoft Azure portal showing Windows 11 virtual machine creation options with a dropdown menu for plans.
 
-Ø I selected **Start with a pre-set configuration** to continue
+➢ I selected **Start with a pre-set configuration** to continue
 
 
 ![image alt](https://github.com/Michaelsalaja/SecOps-Engineering-Lab-2/blob/bfdc69eb3937349cc6d156b8f20caf230db525f9/Figure%207.png)
